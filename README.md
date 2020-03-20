@@ -3,4 +3,4 @@ Evoluzione del coronavirus nella provincia di Belluno, aggiornata ogni giorno co
 
 Fonte: https://www.facebook.com/pg/RasiCaldognoUlssDolomiti Aggiornamenti caricati da Fabio Da Rolt.
 
-LICENZA CC-BY-SA
+LICENZA CC BY-SA 3.0 IT
